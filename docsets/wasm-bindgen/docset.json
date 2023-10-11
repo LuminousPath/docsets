@@ -1,0 +1,21 @@
+{
+    "name": "wasm-bindgen",
+    "version": "0.2.87",
+    "archive": "wasm-bindgen.tgz",
+    "author": {
+        "name": "Jonathan Nogueira",
+        "link": "https://fosstodon.org/@JNogueira"
+    },
+    "aliases": [
+        "wasm-bindgen",
+        "js-sys",
+        "web-sys",
+        "wasm-bindgen-futures"
+    ],
+    "specific_versions": [
+        {
+            "version": "0.2.87",
+            "archive": "versions/0.2.87/wasm-bindgen.tgz"
+        }
+    ]
+}
